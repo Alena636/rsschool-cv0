@@ -8,7 +8,7 @@
 #### Telegram: @homka01
 =============================================================================
 ### About myself:
-I love code and study. I want to get knowledge and skills that will be enough fo employment in a company.
+    I love code and study. I want to get knowledge and skills that will be enough fo employment in a company.
 ------------------------------------------------------------------------------
 ### Skills:
 * HTML
